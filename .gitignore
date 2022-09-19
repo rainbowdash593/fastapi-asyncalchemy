@@ -1,0 +1,14 @@
+*.pyc
+*.log
+*.cpython-36
+.idea/
+.git/
+__pycache__/
+.env
+.envrc
+
+data/*
+!data/.gitkeep
+
+logs/*
+!logs/.gitkeep
